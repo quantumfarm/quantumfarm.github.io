@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/quantumfarm/quantumfarm.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+ {% raw %}
+  $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
+ {% endraw %}
+
 $$ E=mc^3$$
 ### Markdown
 
