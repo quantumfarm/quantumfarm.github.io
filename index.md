@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages ubuntu 中文输入法 五笔
 
 You can use the [editor on GitHub](https://github.com/quantumfarm/quantumfarm.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
