@@ -1,7 +1,7 @@
 # Welcome to GitHub Pages ubuntu 中文输入法 五笔
 
 ### Topology Reference
-[Kane 2013](https://github.com/quantumfarm/Refs/blob/master/Topology/kane2013.pdf)
+[Kane 2013](https://github.com/quantumfarm/Refs/raw/master/Topology/kane2013.pdf)
 
 You can use the [editor on GitHub](https://github.com/quantumfarm/quantumfarm.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
