@@ -1,5 +1,8 @@
 # Welcome to GitHub Pages ubuntu 中文输入法 五笔
 
+### Topology Reference
+[Kane 2013](https://github.com/quantumfarm/Refs/blob/master/Topology/kane2013.pdf)
+
 You can use the [editor on GitHub](https://github.com/quantumfarm/quantumfarm.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
